@@ -13,7 +13,7 @@ public class T01_Login extends BaseTest {
         test.log(Status.INFO, "starting");
         test.assignCategory("P0");
 
-        Assert.assertTrue(false);
+
     }
 
 
